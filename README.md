@@ -1,7 +1,3 @@
-<div align=center>
-<img src='www/app.png' width="50%" >
-</div>
-
 ##
 
 [![GitHub stars](https://img.shields.io/github/stars/YjZhou16/clusterWebApp?style=flat\&logo=github\&color=orange)](https://github.com/YjZhou16/clusterWebApp/stargazers)
@@ -15,10 +11,11 @@
 
 ## **ClusterWebApp**: Interactive Clustering Analysis Platform
 
-**ClusterWebApp** is a lightweight and user-friendly R Shiny application that integrates multiple popular clustering algorithms with an interactive interface. It’s tailored for both educational purposes and practical data analysis, offering insightful visualizations and performance evaluations.
+**ClusterWebApp Version 0.1.3** is a lightweight and user-friendly R Shiny application that integrates multiple popular clustering algorithms with an interactive interface. It’s tailored for both educational purposes and practical data analysis, offering insightful visualizations and performance evaluations.
 
+Author Yijin Zhou 
 <div align=center>
-<img src='www/cluster.png' width="100%" >
+<img src='www/app.png' width="100%" >
 </div>
 
 ## Installation
@@ -59,6 +56,10 @@ shiny::runApp("inst/app")
 
   * **Silhouette Coefficient**
   * **Elbow Method**
+    
+<div align=center>
+<img src='www/cluster.png' width="100%" >
+</div>
 
 ## Project Structure
 
