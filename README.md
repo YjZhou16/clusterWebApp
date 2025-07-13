@@ -15,7 +15,7 @@
 
 **Author Yijin Zhou** 
 <div align=center>
-<img src='inst/app/www/app.png' width="100%" >
+<img src='./inst/app/www/app.png' width="100%" >
 </div>
 
 ## Installation
@@ -58,7 +58,7 @@ shiny::runApp("inst/app")
   * **Elbow Method**
     
 <div align=center>
-<img src='inst/app/www/cluster.png' width="100%" >
+<img src='./inst/app/www/cluster.png' width="100%" >
 </div>
 
 ## Project Structure
