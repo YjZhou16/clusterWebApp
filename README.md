@@ -36,10 +36,10 @@ setwd("clusterWebApp")
 shiny::runApp("inst/app")
 ```
 
-## 🌟 Key Features of ClusterWebApp
+## Key Features of ClusterWebApp
 
-* 🔄 Support for **built-in datasets** (e.g., `iris`, `mtcars`) and **custom CSV uploads**
-* 🧪 Integration of **6 major clustering methods**:
+* Support for **built-in datasets** (e.g., `iris`, `mtcars`) and **custom CSV uploads**
+* Integration of **6 major clustering methods**:
 
   * K-Means
   * PAM (Partitioning Around Medoids)
@@ -47,20 +47,20 @@ shiny::runApp("inst/app")
   * DBSCAN
   * Gaussian Mixture Models (GMM)
   * Hierarchical Clustering
-* 🧼 Automatic numeric variable filtering and missing value handling
-* 📉 Dimensionality reduction via **PCA** or **t-SNE**
-* 📊 Auto-generated:
+* Automatic numeric variable filtering and missing value handling
+* Dimensionality reduction via **PCA** or **t-SNE**
+* Auto-generated:
 
   * Clustering result plots
   * Silhouette plots
   * Radar charts
   * Boxplots
-* ✅ Clustering quality evaluated by:
+* Clustering quality evaluated by:
 
   * **Silhouette Coefficient**
   * **Elbow Method**
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 clusterWebApp/
@@ -80,7 +80,7 @@ clusterWebApp/
 └── LICENSE
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 1. Launch the app with `run_app()`
 2. Set a random seed (default: `123`)
@@ -89,7 +89,7 @@ clusterWebApp/
 5. Configure method-specific parameters (e.g., `k`, `eps`, `minPts`)
 6. Run clustering and explore the visualized results in real-time
 
-## 📈 Algorithm Summary
+## Algorithm Summary
 
 | Method           | Description                         | Advantages                         | Use Cases                |
 | ---------------- | ----------------------------------- | ---------------------------------- | ------------------------ |
@@ -100,26 +100,9 @@ clusterWebApp/
 | **GMM**          | Probabilistic soft clustering       | Mixture modeling                   | Multimodal distributions |
 | **Spectral**     | Graph Laplacian-based method        | Captures non-convex structures     | Complex manifolds        |
 
-## 📘 Citation
-
-> ClusterWebApp: Interactive Clustering Analysis Platform for R
-> Yijin Zhou, Hebei University of Technology (Statistics Class 222)
-
-If you use ClusterWebApp in your work, please consider citing it or giving the repo a ⭐!
-
-```bibtex
-@misc{zhou2025clusterwebapp,
-  title = {ClusterWebApp: Interactive Clustering Analysis Platform for R},
-  author = {Zhou, Yijin},
-  year = {2025},
-  note = {Hebei University of Technology},
-  howpublished = {\url{https://github.com/YjZhou16/clusterWebApp}}
-}
-```
-
 ## 📢 News
 
-* 🎉 *July 2025*: Initial release of the `clusterWebApp` package with 6 clustering algorithms and full Shiny UI support.
+- *July 13th, 2025*: Initial release of the `clusterWebApp` package with 6 clustering algorithms and full Shiny UI support.
 
 ## 🤝 Contributing
 
