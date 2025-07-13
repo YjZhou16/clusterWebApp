@@ -82,6 +82,7 @@ clusterWebApp/
 
 ## Quick Start
 
+0. Open app.R and `Run App` or follow the steps below:
 1. Launch the app with `run_app()`
 2. Set a random seed (default: `123`)
 3. Choose a dataset (built-in or uploaded)
