@@ -13,7 +13,7 @@
 
 **ClusterWebApp Version 0.1.3** is a lightweight and user-friendly R Shiny application that integrates multiple popular clustering algorithms with an interactive interface. It’s tailored for both educational purposes and practical data analysis, offering insightful visualizations and performance evaluations.
 
-Author Yijin Zhou 
+**Author Yijin Zhou** 
 <div align=center>
 <img src='www/app.png' width="100%" >
 </div>
