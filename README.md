@@ -1,5 +1,5 @@
 <div align=center>
-<img src='./inst/www/app.png' width="50%" >
+<img src='www/app.png' width="50%" >
 </div>
 
 ##
@@ -18,7 +18,7 @@
 **ClusterWebApp** is a lightweight and user-friendly R Shiny application that integrates multiple popular clustering algorithms with an interactive interface. It’s tailored for both educational purposes and practical data analysis, offering insightful visualizations and performance evaluations.
 
 <div align=center>
-<img src='./inst/www/cluster.png' width="100%" >
+<img src='www/cluster.png' width="100%" >
 </div>
 
 ## Installation
